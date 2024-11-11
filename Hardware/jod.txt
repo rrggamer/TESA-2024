@@ -1,0 +1,1 @@
+record -d 10 -c 2 -r 48000 -f S16_LE recordingmadi3.wav
